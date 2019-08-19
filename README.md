@@ -23,8 +23,10 @@ It is a problem of supervised learning - A binary classification problem. The st
 
 ## Screenshots
 
-![Example screenshot](./img/Capture1.PNG)
-![Example screenshot](./img/Capture.PNG)
+![Example screenshot](./img/Untitled.png)
+![Example screenshot](./img/Untitled1.png)
+![Example screenshot](./img/Untitled2.png)
+![Example screenshot](./img/Untitled3.png)
 
 ## Technologies and Tools
 * Python 
