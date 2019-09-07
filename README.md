@@ -15,7 +15,7 @@ The project was completed as a part of Healthcare Data Challenge organized at th
 * [Technologies and Tools](#technologies-and-tools)
 * [Code Examples](#code-examples)
 * [Status](#status)
-* [Contact](#contact
+* [Contact](#contact)
 
 ## General info
 
