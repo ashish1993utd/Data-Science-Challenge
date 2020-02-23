@@ -5,7 +5,7 @@ Analysis of Healthcare data
 [![GitHub](https://img.shields.io/github/license/harshbg/HealthCare-Data-Challenge.svg)](https://choosealicense.com/licenses/mit)
 [![HitCount](http://hits.dwyl.io/ashish1993utd/HealthCare-Data-Challenge.svg)](http://hits.dwyl.io/ashish1993utd/HealthCare-Data-Challenge)
 
-# HealthCare-Data-Challenge
+# Data Science Challenge
 > Analysis of a Healthcare data to predict whether a patient will be readmitted to the hospital or not. 
 The project was completed as a part of Healthcare Data Challenge organized at the University of Texas at Dallas.
 
